@@ -1,0 +1,10 @@
+* cl-uglify-js
+
+JavaScript compressor/beautifier library for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mishoo/cl-uglify-js.git   |
+| commit  | 429c5e1  |
+| systems | cl-uglify-js |
+|---------+-------------------------------------------|
+
